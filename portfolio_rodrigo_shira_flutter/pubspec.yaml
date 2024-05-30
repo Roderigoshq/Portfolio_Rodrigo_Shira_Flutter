@@ -36,6 +36,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   flutter_neumorphic: ^3.2.0
+  outline_gradient_button: ^2.0.1+1
+  url_launcher: ^6.2.6
 
 dev_dependencies:
   flutter_test:
@@ -65,6 +67,25 @@ flutter:
     - lib/assets/GitHubIcon2 1.png
     - lib/assets/LinkedinIcon2 1.png
     - lib/assets/ShiraLogo - Home.png
+    - lib/assets/4210456 2.png
+    - lib/assets/ShiraLogo-PNG-C-3d(2)-(1) 43.png
+    - lib/assets/Javascript_badge-c 1.png
+    - lib/assets/Bootstrap_logo-c 1.png
+    - lib/assets/CSS-logo-3 2.png
+    - lib/assets/HTML-logo 2.png
+    - lib/assets/MySQL_textlogo 1.png
+    - lib/assets/Git-Icon-1788C-c 1.png
+    - lib/assets/Python-logo-notext 1.png
+    - lib/assets/WordPress_blue_logo-c 1.png
+    - lib/assets/1667px-Figma-logo-c 1.png
+    - lib/assets/Adobe_Photoshop_CC_icon-c 1.png
+    - lib/assets/Flutter_logo.svg.png
+    - lib/assets/Dart-logo.png
+    - lib/assets/ShiraLogo-PNG-C-3d(2)-(1)2 12.png
+    - lib/assets/unnamed 1.png
+    - lib/assets/firebase_logo_icon_171157.png
+    - lib/assets/fotoLinkedin2.png
+    - lib/assets/shiraclimates.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -89,6 +110,28 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
+
+  fonts:
+  - family: Poppins
+    fonts:
+      - asset: lib/fonts/Poppins-Black.ttf
+      - asset: lib/fonts/Poppins-BlackItalic.ttf
+      - asset: lib/fonts/Poppins-Bold.ttf
+      - asset: lib/fonts/Poppins-BoldItalic.ttf
+      - asset: lib/fonts/Poppins-ExtraBold.ttf
+      - asset: lib/fonts/Poppins-ExtraBoldItalic.ttf
+      - asset: lib/fonts/Poppins-ExtraLight.ttf
+      - asset: lib/fonts/Poppins-ExtraLightItalic.ttf
+      - asset: lib/fonts/Poppins-Italic.ttf
+      - asset: lib/fonts/Poppins-Light.ttf
+      - asset: lib/fonts/Poppins-LightItalic.ttf
+      - asset: lib/fonts/Poppins-Medium.ttf
+      - asset: lib/fonts/Poppins-MediumItalic.ttf
+      - asset: lib/fonts/Poppins-Regular.ttf
+      - asset: lib/fonts/Poppins-SemiBold.ttf
+      - asset: lib/fonts/Poppins-SemiBoldItalic.ttf
+      - asset: lib/fonts/Poppins-Thin.ttf
+      - asset: lib/fonts/Poppins-ThinItalic.ttf
   
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
