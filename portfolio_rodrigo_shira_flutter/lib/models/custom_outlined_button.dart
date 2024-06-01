@@ -23,7 +23,7 @@ class CustomOutlinedButton extends StatelessWidget {
         borderRadius: BorderRadius.circular(18),
         gradient: gradient),
       child: Container(
-        color: Color.fromRGBO(18, 10, 20, 1),
+        color: const Color.fromRGBO(18, 10, 20, 1),
         margin: EdgeInsets.all(thickness),
         child: OutlinedButton(
           onPressed: onPressed,
